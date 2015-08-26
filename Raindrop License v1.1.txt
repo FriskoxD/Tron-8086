@@ -1,0 +1,169 @@
+                     Raindrop License Agreement
+                          By Jan De Groot
+                     <RaindropLicense@gmail.com>
+
+                     Version 1.1 – February 2015
+
+The Software is eligible for use, distribution and modification under the 
+following conditions:
+
+0. About this document
+
+        This document describes the rights granted by the creator(s) of the 
+        software linking to this document.
+
+        From here on out the creator(s) of the software will be referred to as 
+        “Author”, a person who modifies the software will be referred to as 
+        “Contributor”, and the software linking to this document will be 
+        referred to as “Software”.
+
+1. Attribution
+
+        The original Author(s) and all Contributors must always be credited as 
+        such. The same holds true of the company for which the Software is 
+        written.
+        Credit must be given, in each source file, in the following manner 
+        (without brackets, and the email address as an optional field):
+
+         -For Authors:
+                Author: {First Name} {Last Name} <{Email Address}>
+
+         -For Contributors:
+                Contributor: {First Name} {Last Name} <{Email Address}>
+
+         -For Companies:
+                Company: {Company Name} : {Country} <{Email Address}>
+
+         -For Contributing Companies:
+                Contributing Company: {Company Name} : {Country}
+                <{Email Address}>
+
+2. Modification and distribution
+
+        The Software can be freely modified and/or distributed. 
+        When distributing any part of the Software this license must always be 
+        included.
+
+3. Liability
+
+        The Software comes with no warranty or guarantee(s) whatsoever. None of 
+        the Author(s) or Contributor(s) is liable for any damages by or 
+        behaviour of the Software. By using or distributing the Software you 
+        agree that the Software can exhibit bugs and/or can contain unmentioned 
+        and undocumented features.
+
+4. Commercial use
+
+        4.1. General Rule
+
+        The Software may not be used for any commercial purposes. This includes, 
+        but is not limited to, selling the Software as a whole, selling the 
+        Software as a part of a product, or embedding advertisements into the 
+        Software.
+
+        4.2. Exceptions
+        
+        An exception to this rule is the use of the Software in commercial 
+        environments, but only during the development cycle of a product or 
+        service, as long as it is not part of the final product or service.
+        
+        4.2.1 Granted Permissions 
+
+        The above conditions apply unless the Author(s) and Contributor(s) 
+        explicitly grant permission otherwise. Permission must be granted by 
+        each Author and Contributor individually to override these conditions. 
+        Once permission is granted for any type of commercial use, this must be 
+        made clear both in the source code, even when it is not redistributed, 
+        and to the end user.
+
+        Both companies and individuals are eligible for a commercial copy of the 
+        Software. The marking of this commercial copy in source code must be 
+        present in every source code file, under the Author(s) and 
+        Contributor(s) section in the following manner (without brackets):
+
+         -For Companies:
+                Commercial copy granted to: {Company Name} : {Country}
+                                            <{Email Address}>
+
+         -For Individuals:
+                Commercial copy granted to: {First Name} {Last Name}
+                                            <{Email Address}>
+
+5. Linking to this license agreement
+
+        To link your software to this license agreement, a notice must be placed 
+        on each source code file applicable.
+        
+        This notice must take the form (without brackets):
+        
+        Copyright {year} under the Raindrop License Agreement V1.1.
+        If you did not receive a copy of the Raindrop License Agreement 
+        with this Software, please contact the Author of the Software.
+
+6. Sublicensing
+
+        By modifying the Software you are granted the right to apply extra 
+        restrictions that build upon this license. Sublicenses may not, however, 
+        grant permissions that are, explicitly or inexplicitly, denied in this 
+        license agreement.
+
+7. Examples
+
+        7.1 For non-commercial use, individual development
+        
+        /* Program: Foo (Not required by Raindrop License Agreement)
+         * File: Bar.cpp (Not required by Raindrop License Agreement)
+         *
+         * Author: Jan De Groot <RaindropLicense@gmail.com>
+         * Contributor: Rob Robbins <Rob@Robbins.foo>
+         *
+         * Copyright 2015 under the Raindrop License Agreement V1.1.
+         * If you did not receive a copy of the Raindrop License Agreement 
+         * with this Software, please contact the Author of the Software.
+         */
+        
+        7.2 For commercial company use, individual development
+        
+        /* Program: Foo (Not required by Raindrop License Agreement)
+         * File: Bar.cpp (Not required by Raindrop License Agreement)
+         *
+         * Author: Jan De Groot <RaindropLicense@gmail.com>
+         * Contributor: Rob Robbins <Rob@Robbins.foo>
+         *
+         * Commercial copy granted to: MyCompany : Belgium <Support@com.pany>
+         *
+         * Copyright 2015 under the Raindrop License Agreement V1.1.
+         * If you did not receive a copy of the Raindrop License Agreement 
+         * with this Software, please contact the Author of the Software.
+         */
+
+        7.3 For commercial individual use, individual development
+        
+        /* Program: Foo (Not required by Raindrop License Agreement)
+         * File: Bar.cpp (Not required by Raindrop License Agreement)
+         *
+         * Author: Jan De Groot <RaindropLicense@gmail.com>
+         *
+         * Commercial copy granted to: Jan De Groot <RaindropLicense@gmail.com>
+         *
+         * Copyright 2015 under the Raindrop License Agreement V1.1.
+         * If you did not receive a copy of the Raindrop License Agreement 
+         * with this Software, please contact the Author of the Software.
+         */
+
+        7.4 For commercial company use, company development
+        
+        /* Program: Foo (Not required by Raindrop License Agreement)
+         * File: Bar.cpp (Not required by Raindrop License Agreement)
+         *
+         * Author: Jan De Groot <RaindropLicense@gmail.com>
+         * Contributor: Rob Robbins <Rob@Robbins.foo>
+         *
+         * Company: MyCompany : Belgium <Support@com.pany>
+         *
+         * Commercial copy granted to: MyCompany : Belgium <Support@com.pany>
+         *
+         * Copyright 2015 under the Raindrop License Agreement V1.1.
+         * If you did not receive a copy of the Raindrop License Agreement 
+         * with this Software, please contact the Author of the Software.
+         */
